@@ -1,27 +1,48 @@
-# Welcome to my React Online Market project! 🛍️
+# React Online Market 🛒
 
-This website is the culmination of my successful completion of the commercial React Modern Development Program at Y_LAB! 🫎 </br>
-Over the course of three months, I completed all assigned tasks and had the privilege of refining my skills through a variety of challenges. </br> 
-These included an intensive stream of core tasks, additional opportunities for early finishers, and creative projects for those eager to showcase their innovation in web app development.
+A dynamic, user-friendly web application built with **React** to deliver a seamless online shopping experience. Browse products, manage your cart, and enjoy secure, personalized features with a responsive design for all devices.
 
-- You can view my earned certificate here: [LINK](https://www.linkedin.com/in/evakoss/overlay/1729846576652/single-media-viewer/?profileId=ACoAADqRPIABg6xjAzU9Q5wgeEYMjwNkDJ0WKCo)
-- For anyone curious to explore the deployed version, you can check it out here: [LINK](https://react-products-market.vercel.app)
+## ✨ Overview
 
-## Test Credentials
-To access the cab system, you can use the following test credentials:
-```bash
-  "login": "test_1",
-  "password": "123456"
-```
+**React Online Market** is a modern e-commerce platform designed for both customers and administrators. It combines an intuitive interface with robust functionality, offering a scalable and modular solution for online shopping needs.
 
+## 🚀 Features
 
-## Getting Started
-Follow these steps to set up the project locally:
+- **Product Browsing**  
+  Explore a rich catalog of products with detailed descriptions and high-quality images.
 
-1. Clone the Repository: </br>
-```bash
-git clone https://github.com/evokss/MyPortfolioWebsite.git
-```
+- **User Authentication**  
+  Secure login system for personalized accounts.  
+  *Test Credentials*:  
+  - Login: `test_1`  
+  - Password: `123456`
+
+- **Shopping Cart**  
+  Add, remove, and manage items in a streamlined checkout process.
+
+- **Responsive Design**  
+  Optimized for a flawless experience on desktop, tablet, and mobile devices.
+
+- **Admin Dashboard**  
+  Easily manage product listings and user accounts.
+
+## 🛠️ Technical Details
+
+### Tech Stack
+- **Frontend**: React (component-based architecture for modularity)
+- **Deployment**: Hosted on [Vercel](https://react-products-market.vercel.app/) for reliable performance
+- **Development**: Node.js, npm for dependency management
+- **Architecture**: Single-page application (SPA) with client-side rendering
+- **Version Control**: Git, hosted on [GitHub](https://github.com/evokss/MyPortfolioWebsite)
+
+## 📚 Getting Started
+
+Follow these steps to run the project locally:
+
+1. **Clone the Repository**  
+ ```bash
+ git clone https://github.com/evokss/MyPortfolioWebsite.git
+ ```
 
 2. Navigate to the Project Folder: </br>
 ```bash
@@ -38,4 +59,9 @@ npm install
 npm run dev
 ```
 
-7. Open http://localhost:3000 in your browser to view the app.
+6. Open in Browser
+Visit http://localhost:3000 to explore the app!
+
+## 🌐 Live Demo
+Check out the live application at: https://react-products-market.vercel.app/
+
