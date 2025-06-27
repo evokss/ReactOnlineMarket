@@ -49,19 +49,19 @@ React Online Market is a full-featured e-commerce platform that provides users w
 ### Installation
 
 1. Clone the repository
-   \`\`\`bash
-   git clone [repository-url]
-   \`\`\`
+   ```bash
+   git clone https://github.com/evokss/ReactOnlineMarket.git
+   ```
 
 2. Install NPM packages
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. Start the development server
-   \`\`\`bash
+   ```bash
    npm start
-   \`\`\`
+   ```
 
 ## Usage
 
@@ -88,18 +88,18 @@ Use these credentials to explore the app's features in a test environment.
 
 ## Project Structure
 
-\`\`\`
+```text
 src/
-├── api/ # API integration
-├── app/ # Main application components
-├── components/ # Reusable UI components
-├── containers/ # Container components
-├── hooks/ # Custom React hooks
-├── i18n/ # Internationalization
-├── store/ # Custom state management
-├── store-redux/ # Redux implementation
-└── utils/ # Utility functions
-\`\`\`
+├── api/           # API integration
+├── app/           # Main application components
+├── components/    # Reusable UI components
+├── containers/    # Container components
+├── hooks/         # Custom React hooks
+├── i18n/          # Internationalization
+├── store/         # Custom state management
+├── store-redux/   # Redux implementation
+└── utils/         # Utility functions
+```
 
 Key directories:
 
