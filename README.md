@@ -11,6 +11,7 @@ A modern e-commerce web application built with React, featuring a responsive des
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Authentication](#authentication)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
